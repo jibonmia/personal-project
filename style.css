@@ -20,6 +20,9 @@ h1{
 .half-width img{
     width: 100%;
 }
+.half-width .name{
+    margin-top: 10px;
+}
 .top-bener{
     width: 100%;
     min-height: 400px;
@@ -30,4 +33,12 @@ h1{
     align-items: center;
     justify-content: space-between;
     
+}
+.link{
+    background-color: #ab1b6f;
+    border: 2px solid;
+    padding: 5px 15px;
+    text-decoration: none;
+    color: rgb(225, 230, 214);
+    border-radius: 10px;
 }
