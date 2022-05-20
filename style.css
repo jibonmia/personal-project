@@ -1,3 +1,4 @@
+
 *{
     margin: 0;
     padding: 0;
@@ -41,4 +42,11 @@ h1{
     text-decoration: none;
     color: rgb(225, 230, 214);
     border-radius: 10px;
+}
+.institute{
+    width: 100%;
+    min-height: 400px;
+    background-image: url("./image/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right bottom;
 }
