@@ -14,8 +14,8 @@ h1{
 }
 .half-width{
     width: 35%;
-    margin-left: 5%;
-    padding-left: 2%;
+    margin-left:5%;
+    padding-left:2%;
     float: left;
 }
 .half-width img{
@@ -49,4 +49,31 @@ h1{
     background-image: url("./image/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right bottom;
+}
+.job{
+    text-align: center;
+}
+.experince{
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+.exp{
+    width: 400px;
+    padding-left: 50px;
+    margin-left: 150px;
+    float: left;
+    margin-top: 10px;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 5px;
+    height: 150px;
+}
+#Full-Stack{
+    border-left:7px solid;
+    border-image: linear-gradient(#ebdc13,#1aeb13);
+    border-image-slice: 1;
+}
+#basic{
+    border-left: 7px solid;
+    border-image: linear-gradient(#13caeb,#1377eb);
+    border-image-slice: 1;
 }
